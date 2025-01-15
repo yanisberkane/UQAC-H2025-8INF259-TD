@@ -6,6 +6,8 @@ Ajoutez les fonctions suivantes :
 - `T pop()` : Retirer et retourner l'élément au sommet de la pile.
 - `T peek()` : Retourner l'élément au sommet sans le retirer.
 - `bool isEmpty()` : Vérifier si la pile est vide.
+- `size_t size()` : Retourner le nombre d'éléments dans la pile.
+- `void clear()` : Vider la pile.
 
 Indice : Utilisez un template pour que la pile puisse contenir n'importe quel type d'élément.
 
@@ -42,6 +44,8 @@ Ajoutez les fonctions suivantes :
 - `T dequeue()` : Retirer et retourner l'élément au début de la file.
 - `T front()` : Retourner l'élément au début sans le retirer.
 - `bool isEmpty()` : Vérifier si la file est vide.
+- `size_t size()` : Retourner le nombre d'éléments dans la file.
+- `void clear()` : Vider la file.
 
 Indice : Utilisez un template pour que la file puisse contenir n'importe quel type d'élément.
 
