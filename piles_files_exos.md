@@ -1,4 +1,4 @@
-# UQAC-8INF259-STACK-QUEUE-EXOS
+# UQAC-H2025-8INF259-STACK-QUEUE-EXOS
 ## Exercice 1 : Implémentation d'une pile (Stack)
 Implémentez une classe générique `Stack` en C++ à l'aide d'un tableau dynamique `std::vector`.
 Ajoutez les fonctions suivantes :
